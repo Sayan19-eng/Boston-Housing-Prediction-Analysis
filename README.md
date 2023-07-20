@@ -33,4 +33,5 @@ Boston Housing Dataset Attribute Information (in order):
 - Random Forest
 - Extra Tress
 - XGBoost
-*Mean Squared Error* : 10.0
+  
+**Mean Squared Error** : 10.0
