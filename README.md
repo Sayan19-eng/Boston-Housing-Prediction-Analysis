@@ -3,7 +3,9 @@ I have explained about boston house price prediction using various analysis and 
 
 # Dataset Information
 Boston House Prices Dataset was collected in 1978 and has 506 entries with 14 attributes or features for homes from various suburbs in Boston.
+
 Boston Housing Dataset Attribute Information (in order):
+
     - CRIM     per capita crime rate by town
     - ZN       proportion of residential land zoned for lots over 25,000 sq.ft.
     - INDUS    proportion of non-retail business acres per town
